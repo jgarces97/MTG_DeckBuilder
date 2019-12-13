@@ -1,0 +1,86 @@
+1 Acidic Slime
+1 Aether Spellbomb
+1 Bane of the Living
+1 Barren Moor
+1 Blighted Woodland
+1 Casualties of War
+1 Caustic Caterpillar
+1 Coiling Oracle
+1 Corpse Connoisseur
+1 Crawling Sensation
+1 Desecrated Tomb
+1 Diligent Farmhand
+1 Dismal Backwater
+1 Evolving Wilds
+1 Executioner's Capsule
+1 Fact or Fiction
+1 Fleshbag Marauder
+1 Font of Fertility
+7 Forest
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Golgari Signet
+1 Grim Backwoods
+1 Grisly Salvage
+1 Harrow
+4 Island
+1 Izoni, Thousand-Eyed
+1 Jarad, Golgari Lich Lord
+1 Jungle Hollow
+1 Kaya's Ghostform
+1 Khalni Heart Expedition
+1 Krosan Tusker
+1 Krovikan Whispers
+1 Lay Claim
+1 Lonely Sandbar
+1 Lotleth Giant
+1 Magus of the Abyss
+1 Memorial to Genius
+1 Mind Stone
+1 Molderhulk
+1 Muldrotha, the Gravetide
+1 Mulldrifter
+1 Night Incarnate
+1 Nihil Spellbomb
+1 Opulent Palace
+1 Pernicious Deed
+1 Phyrexian Scriptures
+1 Putrefy
+1 Rampant Growth
+1 Ravenous Chupacabra
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Scion of Darkness
+1 Scribe of the Mindful
+1 Seal of Doom
+1 Seal of Primordium
+1 Seal of Removal
+1 Secrets of the Dead
+1 Shriekmaw
+1 Sidisi's Faithful
+1 Sidisi, Brood Tyrant
+1 Simic Signet
+1 Slum Reaper
+1 Splinterfright
+1 Spore Frog
+1 Stinkweed Imp
+1 Sultai Ascendancy
+1 Sultai Banner
+1 Sultai Charm
+7 Swamp
+1 Tatyova, Benthic Druid
+1 Terramorphic Expanse
+1 The Eldest Reborn
+1 Thornwood Falls
+1 Thrashing Brontodon
+1 Tidespout Tyrant
+1 Tranquil Thicket
+1 Traveler's Amulet
+1 Unbridled Growth
+1 Villainous Wealth
+1 Warped Landscape
+1 Wonder
+1 Wood Elves
+1 Woodland Stream
+

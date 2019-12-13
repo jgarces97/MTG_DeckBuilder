@@ -1,0 +1,101 @@
+1 Alms Collector
+1 Animate Dead
+1 Arbor Elf
+1 Arid Mesa
+1 Auriok Salvagers
+1 Avacyn's Pilgrim
+1 Badlands
+1 Bayou
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Brainstorm
+1 Breeding Pool
+1 Careful Study
+1 Carpet of Flowers
+1 Chart a Course
+1 Chrome Mox
+1 City of Brass
+1 Command Tower
+1 Consecrated Sphinx
+1 Dack Fayden
+1 Dance of the Dead
+1 Dark Ritual
+1 Deathrite Shaman
+1 Demonic Tutor
+1 Dispel
+1 Dragon Mage
+1 Elves of Deep Shadow
+1 Elvish Mystic
+1 Enlightened Tutor
+1 Entomb
+1 Eternal Witness
+1 Exotic Orchard
+1 Faithless Looting
+1 Fire Covenant
+1 Flooded Strand
+1 Flusterstorm
+1 Forbidden Orchard
+1 Force of Will
+1 Frantic Search
+1 Fyndhorn Elves
+1 Gilded Drake
+1 Imperial Seal
+1 Intuition
+1 Izzet Charm
+1 Jace, Vryn's Prodigy
+1 Jin-Gitaxias, Core Augur
+1 Life/Death
+1 Lion's Eye Diamond
+1 Llanowar Elves
+1 Lotus Petal
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Marsh Flats
+1 Mental Misstep
+1 Misty Rainforest
+1 Morphic Pool
+1 Mox Diamond
+1 Mystic Remora
+1 Mystical Tutor
+1 Nature's Claim
+1 Necromancy
+1 Niv-Mizzet, Dracogenius
+1 Noble Hierarch
+1 Notion Thief
+1 Noxious Revival
+1 Pact of Negation
+1 Polluted Delta
+1 Ponder
+1 Pongify
+1 Preordain
+1 Razaketh, the Foulblooded
+1 Reanimate
+1 Savannah
+1 Scalding Tarn
+1 Scion of the Ur-Dragon
+1 Scrubland
+1 Snow-Covered Island
+1 Sol Ring
+1 Survival of the Fittest
+1 Swan Song
+1 Sylvan Library
+1 Taiga
+1 Tarnished Citadel
+1 The Ur-Dragon
+1 Timetwister
+1 Tropical Island
+1 Tundra
+1 Underground River
+1 Underground Sea
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Volcanic Island
+1 Watery Grave
+1 Wheel of Fortune
+1 Windfall
+1 Winds of Rebuke
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldgorger Dragon
+

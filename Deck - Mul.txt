@@ -1,0 +1,87 @@
+1 Acidic Slime
+1 Altar of Dementia
+1 Animate Dead
+1 Ash Barrens
+1 Ashnod's Altar
+1 Azusa, Lost but Seeking
+1 Bad River
+1 Baleful Strix
+1 Bane of Progress
+1 Birthing Pod
+1 Breeding Pool
+1 Burgeoning
+1 Carpet of Flowers
+1 Caustic Caterpillar
+1 Chromatic Lantern
+1 Command Beacon
+1 Command Tower
+1 Contamination
+1 Dakmor Salvage
+1 Deadeye Navigator
+1 Elvish Rejuvenator
+1 Eternal Witness
+1 Evolving Wilds
+1 Expedition Map
+1 Fauna Shaman
+6 Forest
+1 Ghost Quarter
+1 Glacial Chasm
+1 Glen Elendra Archmage
+1 Grasslands
+1 Grave Titan
+1 Gray Merchant of Asphodel
+1 Hedron Crab
+1 High Market
+5 Island
+1 Kiora, the Crashing Wave
+1 Kokusho, the Evening Star
+1 Lotus Petal
+1 Massacre Wurm
+1 Meren of Clan Nel Toth
+1 Mesmeric Orb
+1 Muldrotha, the Gravetide
+1 Myriad Landscape
+1 Mystic Remora
+1 Nihil Spellbomb
+1 Nyx Weaver
+1 Oblivion Stone
+1 Opulent Palace
+1 Overgrown Tomb
+1 Pernicious Deed
+1 Perpetual Timepiece
+1 Plaguecrafter
+1 Polluted Delta
+1 Possessed Portal
+1 Primal Surge
+1 Ramunap Excavator
+1 Ravenous Chupacabra
+1 Reclamation Sage
+1 Rhystic Study
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Scavenging Ooze
+1 Seal of Primordium
+1 Shriekmaw
+1 Sidisi, Brood Tyrant
+1 Sidisi, Undead Vizier
+1 Sinister Concoction
+1 Siren Stormtamer
+1 Skullclamp
+1 Smokestack
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spore Frog
+1 Strip Mine
+6 Swamp
+1 Sylvan Safekeeper
+1 Tatyova, Benthic Druid
+1 Terramorphic Expanse
+1 The Gitrog Monster
+1 Underrealm Lich
+1 Vraska the Unseen
+1 Watery Grave
+1 Wayward Swordtooth
+1 Windswept Heath
+1 Wood Elves
+1 World Shaper
+
